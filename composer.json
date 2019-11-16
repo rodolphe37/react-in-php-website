@@ -1,5 +1,5 @@
 {
-    "name": "lior/webpack-encore-react",
+    "name": "rod/webpack-encore-react",
     "require": {
       "fzaninotto/faker": "^1.8"
     },
